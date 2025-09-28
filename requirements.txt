@@ -1,0 +1,12 @@
+aiogram==2.25.1
+groq
+python-dotenv
+PyPDF2
+python-docx
+langchain
+langchain-community
+sentence-transformers
+faiss-cpu
+langchain-huggingface
+evaluate
+rouge_score
